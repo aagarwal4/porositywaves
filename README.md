@@ -1,6 +1,6 @@
 # Numerical Modeling of 3D Porosity Waves
 
-This is the repository for the project involving numerical modeling of 3D porosity waves. The simulation was visualized with VisIt software and can be viewed [here](https://drive.google.com/file/d/0B5JHF3TQfmV7NHRqR291Q29TVUk/view). The pressure wave is visualized on the left, with an underpressure and overpressure region, and the porosity wave is visualized on the right. They migrate upwards due to buoyancy and an initial Gaussian perturbation is provided.
+This is the repository for the project involving numerical modeling of 3D porosity waves. The simulation was visualized with VisIt software and can be viewed [here](https://drive.google.com/file/d/0B5JHF3TQfmV7NHRqR291Q29TVUk/view). The pressure wave is visualized on the left, with an underpressure and overpressure region, and the porosity wave is visualized on the right. They migrate upwards due to buoyancy after an initial Gaussian perturbation is provided.
 
 ### Project details
 
