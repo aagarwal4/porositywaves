@@ -4,7 +4,7 @@ This is the repository for the project involving numerical modeling of 3D porosi
 
 ### Project details
 
-Porosity waves are an active area of research, and have potential impact for characterizing hydrocarbon migration, CO<sub>2</sub>  as well as for slow earthquakes. These are nonlinear solitary waves, and have been modeled here in a viscoelastic medium. 
+Porosity waves are an active area of research, and have potential impact for characterizing hydrocarbon migration, CO<sub>2</sub> sequestration as well as for understanding slow earthquakes. These are nonlinear solitary waves, and have been modeled here in a viscoelastic medium. 
 
 The computation for obtaining porosity and pressure was performed using an explicit finite difference scheme with forward-Euler in space usng a 128 x 128 grid [here](porosity_3d.py). 
 
