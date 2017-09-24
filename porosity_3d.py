@@ -1,7 +1,6 @@
 from __future__ import division
 import numpy as np
 import math
-import matplotlib.pyplot as plt
 
 'physics'
 Ly = 25      #domain length in y, m
