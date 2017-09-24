@@ -89,8 +89,6 @@ for it in xrange(0,nt):
                 res_avg = np.divide(res_total, P_old_total)
 
                 print res_max
-
-
                 if res_max < 0.000001:
                         break
 
