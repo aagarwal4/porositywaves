@@ -4,4 +4,4 @@ This is the repository for the project involving numerical modeling of 3D porosi
 
 The computation for obtaining porosity and pressure after an initial Gaussian perturbation was performed using an explicit finite difference scheme with forward-Euler in space [here](porosity_3d.py). 
 
-The simulation can be viewed [here](https://drive.google.com/file/d/0B5JHF3TQfmV7NHRqR291Q29TVUk/view). 
+The simulation was visualized with VisIt software and can be viewed [here](https://drive.google.com/file/d/0B5JHF3TQfmV7NHRqR291Q29TVUk/view). 
